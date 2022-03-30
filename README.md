@@ -35,4 +35,4 @@ What I know, what I don't I will learn with you
  
 [email:silvestronimarco@gmail.com]
 [twitter:https://twitter.com/Silvermock]
-[likedin:https://www.linkedin.com/in/marcosilvestroni/]
+[linkedin:https://www.linkedin.com/in/marcosilvestroni/]
